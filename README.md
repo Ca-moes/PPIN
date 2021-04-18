@@ -12,5 +12,5 @@
 * André Daniel Alves Gomes - up201806224@up.pt
 * André Filipe Meireles do Nascimento - up201806461@up.pt
 * Gustavo Sena Mendes- up201806078@up.pt
-* José David Souto Rocha - up201805371@up.pt
+* José David Souto Rocha - up201806371@up.pt
 * Telmo Costa Botelho - up201806821@up.pt
