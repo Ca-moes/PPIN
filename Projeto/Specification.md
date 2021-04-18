@@ -37,20 +37,40 @@ Pretendemos elaborar um inquérito online para averiguar o uso de aplicações c
 ## Planeamento
 
 ### Semana de 19/04/2021
-- Definir divisão de trabalho
+- Especificar produto, funcionalidades e objetivo
+- Fase inicial de pesquisa e divisão pelos grupos com os pontos iniciais descritos a seguir, inerentes a aumentarem com o acréscimo de conhecimento obtido ao longo da pesquisa:
+  - Como realizar transferências sobre telemóvel
+    - Para entidades comerciais
+    - Para outros utilizadores
+  - Como obter uma Carteira online (cryptomoedas)
+  - Qual a segurança necessária para este sistema
+  - História de MbWay, para retirar informação
+  - Tecnologia NFC para pagamentos
+  - Tecnologia QRCode para pagamentos
 
 ### Semana de 26/04/2021
 - Questionário à comunidade FEUP
+- Revisão das tarefas e adição de tarefas
+- Criação de protótipo em Figma / MockUps iniciais 
+- Escolha de nome (caso seja alterar), slogan e logotipo
 
 ### Semana de 03/05/2021
-- Recolha de dados
+- Tratamento de dados do questionário
+- Revisão de tarefas feitas anteriormente
+- Agrupamento de informação, verificar últimas fases de pesquisa para ter a informação pronta para o relatório
 
 ### Semana de 10/05/2021
-- Recolha de dados
-- Mockups de interface da aplicação
+- Inicio do desenvolvimento do PowerPoint e Relatório
+  - Capa
+  - Introdução
+  - Agrupamento de informação e fontes
+- Divisão dos pontos da parte de Desenvolvimento pelos membros (exequibilidade, pertinência, ROI, ...)
 
 ### Semana de 17/05/2021
 - Desenvolvimento do relatório
+- Desenvolvimento do PowerPoint e possível finalização
+- Caso haja um PowerPoint próximo de finalizar, haverá treino das apresentações
 
 ### Semana de 24/05/2021
-- Finalizar relatório e entrega
+- Finalizar relatório, PowerPoint e entrega
+
