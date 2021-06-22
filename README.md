@@ -14,3 +14,17 @@
 * Gustavo Sena Mendes- up201806078@up.pt
 * José David Souto Rocha - up201806371@up.pt
 * Telmo Costa Botelho - up201806821@up.pt
+
+---
+
+[***Course Page***](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459488)
+
+Este repositório contém:
+- Projeto
+- Slides
+
+## Grades
+
+| Projeto | Exame | Final |
+|---|---|---|
+| ? | ? |  ?  | 
